@@ -1,3 +1,3 @@
-Created by Codrops
+Time line one page Css Html to show the important events 
 
-Please read more about our license here: http://tympanus.net/codrops/licensing/ 
+you can cope it :) 
